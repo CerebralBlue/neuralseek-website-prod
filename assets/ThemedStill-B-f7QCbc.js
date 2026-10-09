@@ -1,0 +1,1 @@
+import{On as e,an as t}from"./index-Da10imKe.js";import{o as n}from"./shared-B4ynfxP_.js";var r=e();function i({name:e,className:i}){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(n,{name:`${e}-light`,alt:``,width:1120,height:1120,className:t(i,`ns-only-light`)}),(0,r.jsx)(n,{name:`${e}-dark`,alt:``,width:1120,height:1120,className:t(i,`ns-only-dark`)})]})}export{i as t};

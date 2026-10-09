@@ -1,0 +1,105 @@
+# NeuralSeek
+
+> NeuralSeek is an enterprise AI platform to build and run AI agents and accurate answers on your own data, with guardrails, governance and audit trails built in. Use it as consumption-based SaaS on Azure, AWS or IBM Cloud, or run it with an unlimited on-prem license on your own infrastructure, including fully air-gapped. Compliance: SOC 1, SOC 2 Type II and HIPAA. Start now: https://stripe.neuralseek.com/
+
+## Company and contact
+
+- [Enterprise AI Platform for Governed Answers and Agents](https://neuralseek.com/): NeuralSeek turns your own data into grounded answers and AI agents, with guardrails and logs built in. Start today as SaaS, or run it on-prem.
+- [Company](https://neuralseek.com/company/): The team behind NeuralSeek, building governance into enterprise AI from day one.
+- [Contact](https://neuralseek.com/contact/): Contact NeuralSeek for a demo, pricing, a scoping call or a question about running NeuralSeek in your own environment. A person on our team replies.
+- [Agentic AI internship](https://neuralseek.com/internship/): A six-week, fully remote agentic AI internship for university students worldwide: build and ship a solution on mAIstro and earn NeuralSeek certificates.
+- [Support](https://neuralseek.com/support/): Open a support ticket for your NeuralSeek instance. Describe the issue, choose a severity and an engineer replies by email with next steps.
+
+## Platform
+
+- [Marketplace](https://neuralseek.com/marketplace/): Start from a ready-made NeuralSeek agent. Browse the Marketplace tab in mAIstro, load a template into the editor and change it to fit your workflow.
+- [Platform overview](https://neuralseek.com/platform/): Answers, AI agents, guardrails, governance and connectors in one platform. Start on the SaaS today, or run NeuralSeek in your own environment.
+- [Connectors](https://neuralseek.com/platform/connectors/): Connect NeuralSeek agents to your databases, file stores, search and work tools with ready-made nodes, plus REST and MCP for any other system you use.
+- [Deployment: SaaS, Private Cloud or On-Premises](https://neuralseek.com/platform/deployment/): Start on NeuralSeek SaaS, buy it on AWS, Azure or IBM Cloud, run it on IBM Fusion, or install it on your own Kubernetes or OpenShift cluster.
+- [AI governance](https://neuralseek.com/platform/governance/): See what your AI did and roll back what changed: answer scores over time, agent runs with timings, and a configuration log you can revert from.
+- [Guardrails](https://neuralseek.com/platform/guardrails/): Hundreds of built-in, customizable guardrails with governance and reporting pre-built: prompt-injection protection, PII masking, confidence checks and red-team testing.
+- [mAIstro: build AI agents](https://neuralseek.com/platform/maistro/): Build multi-step AI agents in mAIstro: a visual editor or code, a model per step, parallel branches, guardrails as nodes and a full record of every run.
+- [NeuralWorks](https://neuralseek.com/platform/neuralworks/): NeuralWorks is a workspace assistant built from NeuralSeek agents: it helps with meetings, email, documents and updates in the systems your team uses.
+- [Seek: answers from your data](https://neuralseek.com/platform/seek/): Seek answers questions from your own documents, with hybrid search, re-ranking, confidence scores, source highlighting and a floor you set for weak answers.
+- [Semantic cache](https://neuralseek.com/platform/semantic-cache/): Serve approved answers again without another model call. Questions match to topics, experts edit answers in Curate, and Governance reports cache hits.
+
+## Data Sovereignty
+
+- [Sovereign AI Platform: Private, On-Prem, Air-Gapped](https://neuralseek.com/sovereignty/): Run NeuralSeek in your own cloud, a sovereign cloud, OpenShift or air-gapped on-prem, so your data and your models stay in your jurisdiction.
+
+## Pricing and buying
+
+- [NeuralSeek on AWS](https://neuralseek.com/aws/): Buy NeuralSeek on AWS Marketplace or run it in your own AWS account, with Amazon Bedrock models, Amazon Kendra knowledge bases, Amazon Lex and S3.
+- [NeuralSeek on Azure](https://neuralseek.com/azure/): Buy NeuralSeek through the Microsoft marketplace or run it in your own Azure tenant, with Azure OpenAI models, Azure AI Bot Service and SharePoint.
+- [NeuralSeek on IBM Cloud](https://neuralseek.com/ibm-cloud/): Buy NeuralSeek from the IBM Cloud catalog or run it on your own OpenShift, with watsonx.ai, Watson Discovery, watsonx Assistant and watsonx.governance.
+- [Pricing: Consumption-Based SaaS or Unlimited On-Prem](https://neuralseek.com/pricing/): Pay as you go with NeuralSeek's consumption-based SaaS, or run an unlimited on-prem license on your own infrastructure. Start a two-week trial online.
+
+## Solutions
+
+- [AI Solutions for Finance, Healthcare and LATAM](https://neuralseek.com/solutions/): NeuralSeek for financial services, healthcare and Latin America: grounded answers, guardrails on every request, and deployment as SaaS or in your own environment.
+- [Private AI for Banks and Financial Services](https://neuralseek.com/solutions/financial-services/): AI for banks and financial services: answers cited to source, sensitive data masked before the model call, a full audit trail, and deployment in your tenant.
+- [Private AI for Healthcare, Inside Your Network](https://neuralseek.com/solutions/healthcare/): AI for healthcare: sensitive data masked before the model call, answers cited to approved material, and clinical and admin work running inside your network.
+- [Sovereign AI for Latin America & the Caribbean](https://neuralseek.com/solutions/latam/): AI agents for banks and institutions in Latin America and the Caribbean: answers in Spanish, Portuguese or English, running on your own infrastructure.
+
+## Customers
+
+- [Customers](https://neuralseek.com/customers/): Customer stories from NeuralSeek deployments in banking, trading, healthcare, education and technology: what each team built and where it runs.
+- [Great Day Improvements](https://neuralseek.com/customers/great-day-improvements/): Great Day Improvements runs a governed AI assistant for HR and the contact center: per-query model choice, its own knowledge, in its own Azure tenant.
+- [Itochu International](https://neuralseek.com/customers/itochu/): Itochu International runs cross-language financial intelligence on NeuralSeek: hybrid retrieval over filings and private documents, in its Azure tenant.
+
+## Trust
+
+- [Trust Center](https://neuralseek.com/trust/): The security controls in every NeuralSeek deployment, our SOC 1, SOC 2 Type II and HIPAA compliance, and how to request documents for your review.
+- [Certifications: SOC 1, SOC 2 Type II, HIPAA](https://neuralseek.com/trust/certifications/): NeuralSeek is audited for SOC 1 and SOC 2 Type II and is HIPAA compliant, whether you use the SaaS or run it in your own cloud or data center.
+- [Responsible AI](https://neuralseek.com/trust/responsible-ai/): NeuralSeek's responsible AI controls: guardrails with prompt-injection protection, PII masking, grounded and cited answers, and a log of every answer.
+
+## Compare
+
+- [Compare](https://neuralseek.com/compare/): Compare NeuralSeek with IBM watsonx, Microsoft 365 Copilot, Microsoft Foundry, packaged AI assistants and building your own AI stack.
+- [NeuralSeek and Microsoft Foundry](https://neuralseek.com/compare/azure-ai-foundry/): Microsoft Foundry and NeuralSeek compared: an Azure toolkit you assemble, and a ready platform that runs on Azure, other clouds or on-prem.
+- [NeuralSeek or building it yourself](https://neuralseek.com/compare/build-vs-buy/): Build or buy a governed AI stack: what an in-house build takes to maintain, what NeuralSeek gives you ready to use, and when building is the better call.
+- [NeuralSeek and Microsoft 365 Copilot](https://neuralseek.com/compare/microsoft-copilot/): Microsoft 365 Copilot and NeuralSeek compared: a per-seat assistant inside Office apps, and a platform you deploy for governed answers and agents.
+- [NeuralSeek and packaged AI assistants](https://neuralseek.com/compare/packaged-assistants/): Packaged AI assistants and NeuralSeek compared: per-seat tools run by a vendor, and a platform for governed answers that you deploy and control.
+- [NeuralSeek and IBM watsonx](https://neuralseek.com/compare/watsonx/): NeuralSeek and IBM watsonx work together: watsonx provides models and model governance, NeuralSeek adds grounded answers, guardrails and logs.
+
+## Partners
+
+- [NeuralSeek and eDelta Consulting](https://neuralseek.com/edelta/): NeuralSeek and eDelta Consulting: a governed AI platform delivered by a consultancy with deep experience in IT audit and regulatory work.
+- [NeuralSeek on IBM Fusion](https://neuralseek.com/ibm-fusion-partnership/): NeuralSeek on IBM Fusion HCI as one on-prem appliance: retrieval, agents, guardrails and governance behind your firewall, with patterns for regulated sectors.
+- [Partners](https://neuralseek.com/partners/): Partner with NeuralSeek: buy it on the AWS, Azure and IBM Cloud marketplaces, build with IBM, deliver it as a consultancy, and register deals in the portal.
+- [NeuralSeek and CPP Associates](https://neuralseek.com/partners/cpp-associates/): CPP Associates deploys NeuralSeek as a container in AWS, Azure or Google Cloud, and on HPE Private Cloud AI for workloads that stay on premises.
+- [NeuralSeek and Levantto](https://neuralseek.com/partners/levantto/): Levantto, a transformation consultancy rooted in Curaçao, advises on AI governance and data sovereignty and delivers NeuralSeek across the Caribbean.
+- [NeuralSeek and MAPSYS](https://neuralseek.com/partners/mapsys/): MAPSYS, an IBM Business Partner serving clients across North America, brings NeuralSeek into IBM, AI and hybrid cloud environments.
+
+## Resources
+
+- [Resources](https://neuralseek.com/resources/): Engineering guides to grounded, governed AI: prompt injection, PII detection, air-gapped deployment, retrieval tuning and what regulated reviews ask for.
+- [AI audit trails in financial services](https://neuralseek.com/resources/ai-audit-trails-in-financial-services/): AI audit trails in financial services: what internal audit and examiners need, from tamper-evident logs and a history of settings changes to attributable actions and evidence.
+- [Air-Gapped AI Deployment: Running LLMs On-Prem](https://neuralseek.com/resources/air-gapped-ai-deployment/): Air-gapped AI: run LLMs on your own hardware with no outbound connection, covering orchestration, in-cluster inference, private retrieval and hardening.
+- [Events and webinars](https://neuralseek.com/resources/events/): NeuralSeek webinars and events: register for upcoming sessions or watch recordings of past ones, including Secured AI on IBM Fusion with TechD.
+- [Secured AI on IBM Fusion: webinar recording](https://neuralseek.com/resources/events/secured-ai/): Recording of the Sep 15 2026 webinar: why regulated organizations run generative AI behind their own firewall, on IBM Fusion with NeuralSeek on top.
+- [AI in healthcare: what a privacy review asks](https://neuralseek.com/resources/hipaa-and-the-llm-layer/): The questions a healthcare privacy review asks of an AI layer: redaction before the model call, a full record of answers, access controls and evidence.
+- [Monthly newsletter](https://neuralseek.com/resources/newsletter/): Subscribe to the NeuralSeek monthly newsletter: upcoming events, partner highlights, the monthly webinar and new agents in the marketplace.
+- [PII detection in LLM pipelines](https://neuralseek.com/resources/pii-detection-in-llm-pipelines/): PII detection in LLM pipelines: where regex succeeds, where it silently fails, and why a layered pass (deterministic, then contextual) closes both gaps.
+- [Prompt injection in enterprise AI](https://neuralseek.com/resources/prompt-injection/): Prompt injection, direct and indirect: why traditional security controls miss it, why it can't be trained away, and the architecture that contains it.
+- [A guide to retrieval grounding](https://neuralseek.com/resources/retrieval-grounding/): Retrieval grounding sets the ceiling on AI answer accuracy. A guide to relevance bands, freshness weighting, document limits and snippet sizing.
+- [Training and certification](https://neuralseek.com/resources/training/): NeuralSeek training and certification: official tracks with a training partner, hands-on certificates from labs and community, and the student internship.
+
+## Documentation
+
+- [NeuralSeek documentation](https://documentation.neuralseek.com/): how the product works, setup and integrations
+- [Getting started](https://documentation.neuralseek.com/ui/home/): set up a first chatbot
+- [Seek](https://documentation.neuralseek.com/ui/seek/): answers from your knowledge base, with confidence scores
+- [mAIstro](https://documentation.neuralseek.com/ui/maistro/): build agents in NTL, the NeuralSeek Template Language
+- [Governance](https://documentation.neuralseek.com/ui/governance/): answer quality, cost and usage
+- [Supported LLMs](https://documentation.neuralseek.com/ui/integrate/integrations/supported_llms/supported_llms/): model providers you can connect
+- [Supported knowledge bases](https://documentation.neuralseek.com/ui/integrate/integrations/supported_knowledgebases/supported_knowledgebases/): search and vector stores you can connect
+- [Data security and privacy](https://documentation.neuralseek.com/more_about_NS/data_security_and_privacy/): encryption, retention, PII handling
+- [Chat SDK](https://documentation.neuralseek.com/guides/integration/chat_sdk_integration/): add NeuralSeek chat to your site
+- [Changelog](https://documentation.neuralseek.com/changelog/): what changed, by release
+
+## Optional
+
+- [Acceptable Use Policy](https://neuralseek.com/legal/acceptable-use/): The rules for using NeuralSeek: what's allowed, what isn't, and what happens if you cross the line.
+- [Privacy Policy](https://neuralseek.com/legal/privacy/): How NeuralSeek collects, uses, and protects personal information on our website and platform.
+- [Terms of Service](https://neuralseek.com/legal/terms/): The terms that govern use of the NeuralSeek website and self-serve platform. Enterprise customers are separately covered by an executed MSA.

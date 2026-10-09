@@ -1,0 +1,1 @@
+import{On as e,V as t}from"./index-FYgD9L-g.js";import{v as n,x as r}from"./shared-ButQmPtj.js";import{t as i}from"./LegalDocument-CHnlUxLo.js";var a=e();function o(){return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(r,{}),(0,a.jsx)(`main`,{id:`main`,children:(0,a.jsx)(i,{doc:t,titleId:`privacy-title`})}),(0,a.jsx)(n,{})]})}export{o as component};

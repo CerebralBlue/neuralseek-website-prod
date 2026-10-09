@@ -1,0 +1,1 @@
+import{c as e}from"./index-Da10imKe.js";var t=e.compliance.builtEyebrow;function n(t,n){return t.map(t=>{let r=e.compliance.frameworks.find(e=>e.name===t);if(!r)throw Error(`${n}: no framework "${t}" in content/certifications.ts`);return r})}export{n,t};

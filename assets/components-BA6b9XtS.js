@@ -1,0 +1,1 @@
+import{On as e}from"./index-Da10imKe.js";import{n as t}from"./dev-guide-F8gC5pXo.js";import{t as n}from"./GuideGroups-CBrGadoE.js";var r=e(),i=()=>(0,r.jsx)(n,{title:`Components`,intro:`Three button primitives, two layout primitives, and the sections a page is assembled from. Reuse before writing a new one.`,groups:t});export{i as component};

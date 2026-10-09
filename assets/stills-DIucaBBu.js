@@ -1,0 +1,1 @@
+import{On as e}from"./index-FYgD9L-g.js";import{t}from"./shared-NcLK05kI.js";var n=e();function r(){return(0,n.jsxs)(`div`,{className:`max-w-4xl space-y-16`,children:[(0,n.jsx)(t,{group:`stills`}),(0,n.jsx)(t,{group:`portraits`}),(0,n.jsx)(t,{group:`posters`})]})}var i=r;export{i as component};

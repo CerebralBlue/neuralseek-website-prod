@@ -1,0 +1,1 @@
+import{On as e,an as t,in as n,nn as r,rn as i,tn as a}from"./index-FYgD9L-g.js";var o=e();function s({label:e,href:s,size:c=`md`,full:l=!1,className:u,icon:d}){return(0,o.jsxs)(`a`,{href:s,...n(s),className:t(`ns-glow-halo`,a,`gap-2 border border-hairline text-foreground`,i[c],l&&`w-full`,u),children:[e,d?(0,o.jsx)(d,{className:r[c]}):null]})}export{s as t};

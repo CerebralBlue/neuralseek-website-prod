@@ -1,0 +1,1 @@
+import{B as e,On as t}from"./index-Da10imKe.js";import{v as n,x as r}from"./shared-B4ynfxP_.js";import{t as i}from"./LegalDocument-DxZPcSFL.js";var a=t();function o(){return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(r,{}),(0,a.jsx)(`main`,{id:`main`,children:(0,a.jsx)(i,{doc:e,titleId:`aup-title`})}),(0,a.jsx)(n,{})]})}export{o as component};

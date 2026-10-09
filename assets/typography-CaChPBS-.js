@@ -1,0 +1,1 @@
+import{On as e}from"./index-FYgD9L-g.js";import{s as t}from"./dev-guide-F8gC5pXo.js";import{t as n}from"./GuideGroups-Bfyu8Q6k.js";var r=e(),i=()=>(0,r.jsx)(n,{title:`Typography`,intro:`Two self-hosted families and a six-step scale. Sizes are tokens, not arbitrary values.`,groups:t});export{i as component};

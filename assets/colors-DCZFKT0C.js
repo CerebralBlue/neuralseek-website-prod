@@ -1,0 +1,1 @@
+import{On as e}from"./index-Da10imKe.js";import{t}from"./dev-guide-F8gC5pXo.js";import{t as n}from"./GuideGroups-CBrGadoE.js";var r=e(),i=()=>(0,r.jsx)(n,{title:`Colors`,intro:`Every colour on the site is a semantic token. Components reference the token, never a hex value.`,groups:t});export{i as component};

@@ -1,0 +1,1 @@
+import{On as e}from"./index-Da10imKe.js";import{t}from"./shared-MK3yvb4i.js";var n=e();function r(){return(0,n.jsx)(`div`,{className:`max-w-4xl`,children:(0,n.jsx)(t,{group:`logos`})})}var i=r;export{i as component};

@@ -1,0 +1,1 @@
+import{l as e}from"./index-FYgD9L-g.js";import{t}from"./trust-De0ebkj8.js";function n(n,r){return n.map(n=>{let i=t.cards.find(e=>e.id===n),a=e[n]?.icon;if(!i||!a)throw Error(`${r}: no trust control or icon for "${n}"`);return{id:i.id,title:i.title,body:i.body,icon:a}})}export{n as t};

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "neuralseek",
+      "type": "skill-md",
+      "description": "Learn what NeuralSeek is and answer questions about it. NeuralSeek is an enterprise AI platform to build and run AI agents and accurate answers on your own data, with guardrails, governance and audit trails built in. Use when a user asks about NeuralSeek's platform, deployment options, pricing, data sovereignty, security and compliance, or customers, or wants to start a trial, request a demo or contact the team.",
+      "url": "/.well-known/agent-skills/neuralseek/SKILL.md",
+      "digest": "sha256:fc225b0c9c49890ff9b1be6a1faf2878ac89d584d4e67ad93b4d5b9fb7415ced"
+    }
+  ]
+}
