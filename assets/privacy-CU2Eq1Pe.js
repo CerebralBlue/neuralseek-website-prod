@@ -1,0 +1,1 @@
+import{M as e,on as t}from"./index-DoxARWby.js";import{E as n,O as r}from"./shared-_IvWtdze.js";import{t as i}from"./LegalDocument-CllU4SA1.js";var a=t();function o(){let{doc:t}=e.useLoaderData();return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(r,{}),(0,a.jsx)(`main`,{id:`main`,children:(0,a.jsx)(i,{doc:t,titleId:`privacy-title`})}),(0,a.jsx)(n,{})]})}export{o as component};

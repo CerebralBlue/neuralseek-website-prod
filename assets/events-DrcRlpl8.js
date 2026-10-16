@@ -1,0 +1,1 @@
+function e(e){return e.filter(e=>e.registration&&!e.recording)}function t(e){return e.filter(e=>e.recording)}export{t as pastEvents,e as upcomingEvents};

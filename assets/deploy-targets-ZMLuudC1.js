@@ -1,0 +1,1 @@
+var e=[{name:`IBM Fusion`,mark:`ibm-fusion.png`},{name:`AWS`,mark:`aws.svg`},{name:`Kubernetes`,mark:`kubernetes.svg`},{name:`Azure`,mark:`azure.svg`},{name:`Red Hat OpenShift`,mark:`openshift.svg`},{name:`IBM Cloud`,mark:`ibm-cloud-mark.svg`}];export{e as t};

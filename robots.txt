@@ -1,0 +1,25 @@
+# https://neuralseek.com/robots.txt
+#
+# One global group, deliberately. Per the robots spec, user-agent groups are
+# NOT combined — only the most specific matching group applies. Naming ~20 bots
+# each with "Allow: /" buys nothing (crawling is allowed by default) and arms a
+# footgun: the day someone adds a Disallow here, every named bot ignores it.
+#
+# Google-Extended and Applebot-Extended are deliberately NOT blocked. They gate
+# AI grounding and citation, not Search ranking. For an AI company that wants to
+# be cited by AI, being crawlable is the point.
+#
+# Content-Signal (contentsignals.org) says the same thing in words: search,
+# AI answers (ai-input) and model training (ai-train) are all allowed. We want
+# to be cited by assistants and known by the models themselves — a decision by
+# the site owner, not a default. It sits inside the one group, as the spec asks.
+#
+# No Agentmap line (Oct 8 2026): Lighthouse reports it as an unknown directive
+# and fails the file. Agents find the catalog at /.well-known/ard.json (and the
+# older /.well-known/ai-catalog.json) and through <link rel="ard"> on every page.
+
+User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+
+Sitemap: https://neuralseek.com/sitemap.xml

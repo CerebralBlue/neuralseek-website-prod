@@ -1,0 +1,1 @@
+import{Tt as e,Z as t,kt as n,on as r}from"./index-DoxARWby.js";var i=r();function a(){return(0,i.jsx)(t,{en:n,es:e})}export{a as component};
