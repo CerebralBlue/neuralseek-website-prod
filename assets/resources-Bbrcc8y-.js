@@ -1,0 +1,1 @@
+import{an as e}from"./index-BOluDZpW.js";var t=e;export{t as component};

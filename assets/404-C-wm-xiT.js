@@ -1,0 +1,1 @@
+import{$ as e,Q as t,Z as n,on as r}from"./index-Zl2W1iNN.js";var i=r();function a(){return(0,i.jsx)(n,{en:t,others:e})}export{a as component};
