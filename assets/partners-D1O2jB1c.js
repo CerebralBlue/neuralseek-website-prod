@@ -1,0 +1,1 @@
+import{marquee as e}from"./partners-CTryrPnD.js";var t={label:`Führende Unternehmen aus Bankwesen, Gesundheitswesen, Telekommunikation und weiteren Branchen vertrauen NeuralSeek.`,eyebrow:`Das Vertrauen regulierter Unternehmen`,items:e.items};export{t as marquee};

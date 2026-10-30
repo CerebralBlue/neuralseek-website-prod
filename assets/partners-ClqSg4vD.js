@@ -1,0 +1,1 @@
+import{marquee as e}from"./partners-CTryrPnD.js";var t={label:`銀行、医療、通信をはじめ、各業界の大手企業に選ばれています。`,eyebrow:`規制の厳しい業界の企業に選ばれています`,items:e.items};export{t as marquee};

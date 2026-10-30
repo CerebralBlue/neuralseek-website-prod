@@ -1,0 +1,1 @@
+import{marquee as e}from"./partners-CTryrPnD.js";var t={label:`Des entreprises de premier plan nous font confiance dans la banque, la santé, les télécoms et bien d'autres secteurs.`,eyebrow:`la confiance des entreprises réglementées`,items:e.items};export{t as marquee};

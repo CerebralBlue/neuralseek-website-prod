@@ -1,0 +1,1 @@
+import{marquee as e}from"./partners-CTryrPnD.js";var t={label:`Vertrouwd door grote bedrijven in banken, zorg, telecom en meer.`,eyebrow:`vertrouwd in gereguleerde sectoren`,items:e.items};export{t as marquee};

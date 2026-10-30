@@ -1,0 +1,1 @@
+import{j as e,on as t}from"./index-BCEmIgKl.js";import{E as n,O as r}from"./shared-BS9MH3NW.js";import{t as i}from"./LegalDocument-C957eMZt.js";var a=t();function o(){let{doc:t}=e.useLoaderData();return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(r,{}),(0,a.jsx)(`main`,{id:`main`,children:(0,a.jsx)(i,{doc:t,titleId:`terms-title`})}),(0,a.jsx)(n,{})]})}export{o as component};

@@ -1,0 +1,1 @@
+import{marquee as e}from"./partners-CTryrPnD.js";var t={label:`Con la confianza de empresas líderes en banca, salud, telecomunicaciones y más.`,eyebrow:`con la confianza de empresas reguladas`,items:e.items};export{t as marquee};
