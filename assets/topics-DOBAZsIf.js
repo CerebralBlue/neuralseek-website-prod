@@ -1,0 +1,1 @@
+var e=[{id:`security`,label:`Sécurité`},{id:`privacy`,label:`Confidentialité`},{id:`compliance`,label:`Conformité`},{id:`deployment`,label:`Déploiement`},{id:`retrieval`,label:`Récupération`}];export{e as topics};

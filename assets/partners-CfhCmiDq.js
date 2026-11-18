@@ -1,0 +1,1 @@
+import{marquee as e}from"./partners-CTryrPnD.js";var t={label:`Scelto da aziende leader nel settore bancario, nella sanità, nelle telecomunicazioni e non solo.`,eyebrow:`scelto dalle aziende dei settori regolamentati`,items:e.items};export{t as marquee};

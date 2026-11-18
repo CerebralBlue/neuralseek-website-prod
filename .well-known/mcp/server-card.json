@@ -1,0 +1,55 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/v1/server-card.schema.json",
+  "name": "com.neuralseek/website",
+  "title": "NeuralSeek website",
+  "version": "1.0.0",
+  "description": "Ask questions about NeuralSeek, the enterprise AI platform: what it does, how and where it deploys, pricing, trust and security, and customer deployments. Answers come from NeuralSeek's own knowledge base, with a source link when one applies. Public, read-only, no authentication.",
+  "websiteUrl": "https://neuralseek.com/",
+  "icons": [
+    { "src": "https://neuralseek.com/favicon-v2_150x150.png", "mimeType": "image/png", "sizes": ["150x150"] }
+  ],
+  "remotes": [
+    { "type": "streamable-http", "url": "https://neuralseek.com/api/mcp" }
+  ],
+  "serverInfo": {
+    "name": "neuralseek-website",
+    "title": "NeuralSeek website",
+    "version": "1.0.0"
+  },
+  "transport": {
+    "type": "streamable-http",
+    "endpoint": "https://neuralseek.com/api/mcp"
+  },
+  "authentication": { "required": false },
+  "capabilities": {
+    "tools": { "listChanged": false }
+  },
+  "tools": [
+    {
+      "name": "ask_neuralseek",
+      "title": "Ask NeuralSeek",
+      "description": "Ask one question about NeuralSeek (the platform, deployment, pricing, trust, customers) and get a short answer from NeuralSeek's knowledge base, with a source URL when one applies.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "question": {
+            "type": "string",
+            "description": "The question, in plain language.",
+            "maxLength": 500
+          }
+        },
+        "required": ["question"],
+        "additionalProperties": false
+      },
+      "annotations": { "readOnlyHint": true, "openWorldHint": false }
+    }
+  ],
+  "_meta": {
+    "com.neuralseek/links": {
+      "website": "https://neuralseek.com/",
+      "llms": "https://neuralseek.com/llms.txt",
+      "agentSkills": "https://neuralseek.com/.well-known/agent-skills/index.json",
+      "documentation": "https://documentation.neuralseek.com/"
+    }
+  }
+}

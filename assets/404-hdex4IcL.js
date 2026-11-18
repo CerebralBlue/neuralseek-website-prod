@@ -1,0 +1,1 @@
+import{dn as e,it as t,nt as n,rt as r}from"./index-7EOjxKcx.js";var i=e();function a(){return(0,i.jsx)(n,{en:r,others:t})}export{a as component};
