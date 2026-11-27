@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>NeuralSeek articles</title>
+  <subtitle>Practical reading on building, governing and running AI agents.</subtitle>
+  <link rel="self" type="application/atom+xml" href="https://neuralseek.com/resources/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://neuralseek.com/resources/"/>
+  <id>https://neuralseek.com/resources/</id>
+  <updated>2026-10-04T00:00:00Z</updated>
+  <author><name>NeuralSeek</name><uri>https://neuralseek.com/</uri></author>
+  <icon>https://neuralseek.com/favicon-v2_150x150.png</icon>
+  <entry>
+    <title>Prompt injection: direct, indirect, and how to contain both</title>
+    <link rel="alternate" type="text/html" href="https://neuralseek.com/resources/prompt-injection/"/>
+    <id>https://neuralseek.com/resources/prompt-injection/</id>
+    <published>2026-10-04T00:00:00Z</published>
+    <updated>2026-10-04T00:00:00Z</updated>
+    <summary>Why the attack cannot be patched at the model layer, what an indirect payload looks like, and where the controls have to sit.</summary>
+  </entry>
+  <entry>
+    <title>Finding the PII that pattern matching misses</title>
+    <link rel="alternate" type="text/html" href="https://neuralseek.com/resources/pii-detection-in-llm-pipelines/"/>
+    <id>https://neuralseek.com/resources/pii-detection-in-llm-pipelines/</id>
+    <published>2026-10-04T00:00:00Z</published>
+    <updated>2026-10-04T00:00:00Z</updated>
+    <summary>Regular expressions catch the personal data that looks like personal data. A second, contextual pass finds the kind hidden in ordinary language.</summary>
+  </entry>
+  <entry>
+    <title>Running language models in a fully air-gapped environment</title>
+    <link rel="alternate" type="text/html" href="https://neuralseek.com/resources/air-gapped-ai-deployment/"/>
+    <id>https://neuralseek.com/resources/air-gapped-ai-deployment/</id>
+    <published>2026-10-04T00:00:00Z</published>
+    <updated>2026-10-04T00:00:00Z</updated>
+    <summary>A practical walkthrough of no-egress deployment: mirrored registries, in-cluster model serving, a private retrieval stack, and the hardening that makes it defensible.</summary>
+  </entry>
+  <entry>
+    <title>The questions a healthcare privacy review asks about your AI layer</title>
+    <link rel="alternate" type="text/html" href="https://neuralseek.com/resources/hipaa-and-the-llm-layer/"/>
+    <id>https://neuralseek.com/resources/hipaa-and-the-llm-layer/</id>
+    <published>2026-10-04T00:00:00Z</published>
+    <updated>2026-10-04T00:00:00Z</updated>
+    <summary>The engineering questions that decide whether a clinical AI project clears privacy review, and how each one becomes a configuration you can point at.</summary>
+  </entry>
+  <entry>
+    <title>Building an AI audit trail an examiner will accept</title>
+    <link rel="alternate" type="text/html" href="https://neuralseek.com/resources/ai-audit-trails-in-financial-services/"/>
+    <id>https://neuralseek.com/resources/ai-audit-trails-in-financial-services/</id>
+    <published>2026-10-04T00:00:00Z</published>
+    <updated>2026-10-04T00:00:00Z</updated>
+    <summary>The hardest audit question is what the system was configured to do on a given day. The properties that make that answerable.</summary>
+  </entry>
+  <entry>
+    <title>Controlling what your AI is allowed to read</title>
+    <link rel="alternate" type="text/html" href="https://neuralseek.com/resources/retrieval-grounding/"/>
+    <id>https://neuralseek.com/resources/retrieval-grounding/</id>
+    <published>2026-10-04T00:00:00Z</published>
+    <updated>2026-10-04T00:00:00Z</updated>
+    <summary>Relevance bands, freshness decay, document limits and snippet sizing: the upstream decisions that set answer accuracy before the model writes anything.</summary>
+  </entry>
+</feed>

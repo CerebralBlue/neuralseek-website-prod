@@ -1,0 +1,1 @@
+import{story as e}from"./story-UoOYaYmY.js";var t={eyebrow:`إثبات في بيئة الإنتاج`,headlineLines:[`3 أسابيع`,`إلى 13 دقيقة`],quote:e.quote,attributionName:e.attributionName,attributionRole:e.attributionRole,poster:`case-study-poster`,video:`case-study`,watchLabel:`شاهد القصة (بالإنجليزية)`,filmLabel:`فيلم قصة عميل Itochu International`};export{t as story};

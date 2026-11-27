@@ -1,0 +1,1 @@
+import{marquee as e}from"./partners-CTryrPnD.js";var t={label:`تثق بها مؤسسات رائدة في القطاع المصرفي والرعاية الصحية والاتصالات وغيرها.`,eyebrow:`موثوقة في المؤسسات الخاضعة للتنظيم`,items:e.items};export{t as marquee};

@@ -1,0 +1,1 @@
+var e=[{id:`security`,label:`الأمان`},{id:`privacy`,label:`الخصوصية`},{id:`compliance`,label:`الامتثال`},{id:`deployment`,label:`النشر`},{id:`retrieval`,label:`الاسترجاع`}];export{e as topics};

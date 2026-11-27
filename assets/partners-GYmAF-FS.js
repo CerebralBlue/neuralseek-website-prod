@@ -1,0 +1,1 @@
+import{marquee as e}from"./partners-CTryrPnD.js";var t={label:`Empresas líderes em bancos, saúde, telecomunicações e outros setores confiam no NeuralSeek.`,eyebrow:`a confiança de setores regulados`,items:e.items};export{t as marquee};

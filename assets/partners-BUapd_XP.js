@@ -1,0 +1,1 @@
+import{marquee as e}from"./partners-CTryrPnD.js";var t={label:`은행, 헬스케어, 통신을 비롯한 각 업계의 선도 기업이 NeuralSeek를 사용합니다.`,eyebrow:`규제 산업의 기업이 선택했습니다`,items:e.items};export{t as marquee};

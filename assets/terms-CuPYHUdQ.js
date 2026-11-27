@@ -1,0 +1,1 @@
+import{P as e,dn as t}from"./index-DdLS-80y.js";import{E as n,w as r}from"./shared-Cl6NiWE3.js";import{t as i}from"./LegalDocument-Bu5yDPTD.js";var a=t();function o(){let{doc:t}=e.useLoaderData();return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(n,{}),(0,a.jsx)(`main`,{id:`main`,children:(0,a.jsx)(i,{doc:t,titleId:`terms-title`})}),(0,a.jsx)(r,{})]})}export{o as component};

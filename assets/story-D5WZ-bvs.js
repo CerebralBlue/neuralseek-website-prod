@@ -1,0 +1,1 @@
+import{story as e}from"./story-UoOYaYmY.js";var t={eyebrow:`已上線的成效`,headlineLines:[`3 週縮短為`,`13 分鐘`],quote:e.quote,attributionName:e.attributionName,attributionRole:e.attributionRole,poster:`case-study-poster`,video:`case-study`,watchLabel:`觀看案例（英文）`,filmLabel:`Itochu International 客戶案例影片`};export{t as story};

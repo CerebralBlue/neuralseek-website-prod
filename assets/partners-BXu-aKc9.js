@@ -1,0 +1,1 @@
+import{marquee as e}from"./partners-CTryrPnD.js";var t={label:`獲銀行、醫療、電信等領域的大型企業信賴。`,eyebrow:`受監管產業的企業所信賴`,items:e.items};export{t as marquee};

@@ -1,0 +1,1 @@
+import{withFrameworkNotes as e}from"./frameworks-Dc_ztqac.js";import{resolveShowcase as t}from"./showcase-BYhitiIT.js";function n(n,r){let{p:i,model:a,certifications:o,showcase:s}=n;return{p:i,stories:i.stories?t(s,i.stories,r):null,frameworks:e(o,i.compliance.frameworks,r),frameworkEyebrow:o.compliance.builtEyebrow,model:a}}export{n as cloudPartnerBody};

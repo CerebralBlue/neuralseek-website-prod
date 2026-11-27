@@ -1,0 +1,1 @@
+import{un as e}from"./index-DdLS-80y.js";var t=e;export{t as component};

@@ -1,0 +1,38 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "NeuralSeek",
+    "identifier": "did:web:neuralseek.com",
+    "documentationUrl": "https://documentation.neuralseek.com/"
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:neuralseek.com:mcp:website",
+      "displayName": "Ask NeuralSeek (MCP server)",
+      "type": "application/mcp-server-card+json",
+      "url": "https://neuralseek.com/.well-known/mcp/server-card.json",
+      "description": "Public MCP server with one tool, ask_neuralseek: questions about NeuralSeek answered from its own knowledge base. Streamable HTTP at https://neuralseek.com/api/mcp, no authentication.",
+      "capabilities": [
+        "ask_neuralseek"
+      ],
+      "representativeQueries": [
+        "what is NeuralSeek",
+        "can NeuralSeek run on-premises or air-gapped",
+        "how is NeuralSeek priced",
+        "does NeuralSeek have SOC 2 Type II"
+      ]
+    },
+    {
+      "identifier": "urn:air:neuralseek.com:skill:neuralseek",
+      "displayName": "NeuralSeek agent skill",
+      "type": "text/markdown; profile=\"urn:air:agent-skills\"",
+      "url": "https://neuralseek.com/.well-known/agent-skills/neuralseek/SKILL.md",
+      "description": "How an agent learns about NeuralSeek and engages with it: the page index, the MCP tool, the key pages, and the rule never to submit a form without the user's confirmation.",
+      "representativeQueries": [
+        "help me evaluate NeuralSeek for my company",
+        "where can I request a NeuralSeek demo",
+        "find NeuralSeek's trust and security information"
+      ]
+    }
+  ]
+}

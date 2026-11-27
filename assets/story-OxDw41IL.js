@@ -1,0 +1,1 @@
+import{story as e}from"./story-UoOYaYmY.js";var t={eyebrow:`本番環境での成果`,headlineLines:[`3週間が`,`13分に`],quote:e.quote,attributionName:e.attributionName,attributionRole:e.attributionRole,poster:`case-study-poster`,video:`case-study`,watchLabel:`ストーリーを見る（英語）`,filmLabel:`Itochu Internationalの導入事例動画`};export{t as story};

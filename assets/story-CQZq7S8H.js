@@ -1,0 +1,1 @@
+import{story as e}from"./story-UoOYaYmY.js";var t={eyebrow:`실제 운영 환경에서의 성과`,headlineLines:[`3주가`,`13분으로`],quote:e.quote,attributionName:e.attributionName,attributionRole:e.attributionRole,poster:`case-study-poster`,video:`case-study`,watchLabel:`사례 영상 보기(영어)`,filmLabel:`Itochu International 고객 사례 영상`};export{t as story};
